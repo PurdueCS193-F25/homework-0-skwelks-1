@@ -13,6 +13,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - CS193 helps computer science students with less experiment get more familiar with CS tools.
 - Its smaller class size helps make the class more personable.
 - It being a 1 credit hour class means it doesn't draw too much time from your other classes, which is helpful.
+
+.
 ```markdown
 Syntax highlighted code block
 
